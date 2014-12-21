@@ -9,7 +9,7 @@
     "author": "Olvier NOUGUIER",
     "license": {
             "type": "Apache",
-            "url": "https://github.com/cheleb/wisdom-activiti-engine/blob/master/LICENSE.txt"
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
         },
     "homepage": "https://github.com/cheleb/wisdom-activiti-engine/",
     "keywords": [
